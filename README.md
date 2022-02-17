@@ -1,5 +1,5 @@
 # Simple-Calculator-Using-Tkinter..
-### This Repo contains a simple calculator made using "Tkinter" module in python...
+### This Repo contains a Simple Calculator made using "Tkinter" module in python...
 
 ![Tkinter_Calculator](https://user-images.githubusercontent.com/96721128/154481158-02b07e2f-856b-4eac-ab66-906191d903fd.png)
 
